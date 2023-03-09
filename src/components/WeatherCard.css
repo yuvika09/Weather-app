@@ -18,20 +18,25 @@
 
 .textbox {
     background-color: rgb(229, 248, 250);
-    height: 4vh;
+    height: 5vh;
     width: 14vw;
     border-radius: 5px;
-    padding: 2px;
+    padding: 4px;
     font-size: 2.3vh;
 }
 
 .btn {
-    background-color: rgb(87, 196, 196);
+    background-color: rgb(103, 233, 233);
     height: 5vh;
     width: 8vw;
     border-radius: 5px;
     margin: 0vh 1vw;
     font-size: 2.5vh;
+}
+
+.btn:hover{
+    background-color: rgb(22, 162, 177);
+    color: aliceblue;
 }
 
 .sm-cont {
